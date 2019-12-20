@@ -1,0 +1,3 @@
+/Users/stephen/Desktop/Code/CV/_visualizer/build/CMakeFiles/rebuild_cache.dir
+/Users/stephen/Desktop/Code/CV/_visualizer/build/CMakeFiles/edit_cache.dir
+/Users/stephen/Desktop/Code/CV/_visualizer/build/CMakeFiles/visualizer.dir
